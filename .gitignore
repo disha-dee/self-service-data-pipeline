@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Streamlit cache
+.streamlit/
+
+# MacOS
+.DS_Store
+
+# Generated pipeline outputs
+data_lake/
+metadata/
+configs/mapping.json
